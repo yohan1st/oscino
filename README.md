@@ -1,39 +1,60 @@
-# oscino
-🌊 World's First Universal Swarm  Intelligence Engine — Predict Anything  with 1,247 AI Agents
+ 
 <div align="center">
+
+<img src="https://oscinoai.lovable.app/og-image.png" 
+width="200" alt="Oscino Logo"/>
 
 # 🌊 Oscino
 
 ### World's First Universal Swarm Intelligence Engine
 
-*A Simple and Universal Swarm Intelligence Engine, 
-Predicting Anything*
+*Extract real-world signals. Spawn intelligent agents. 
+Watch social dynamics emerge. Project the future — 
+before it happens.*
+
+<a href="https://github.com/yohan1st/oscino/stargazers">
+<img src="https://img.shields.io/github/stars/yohan1st/oscino?style=for-the-badge&logo=github&color=9B59FF" alt="Stars"/>
+</a>
+<a href="https://github.com/yohan1st/oscino/network/members">
+<img src="https://img.shields.io/github/forks/yohan1st/oscino?style=for-the-badge&logo=github&color=00F5FF" alt="Forks"/>
+</a>
+<a href="https://github.com/yohan1st/oscino/blob/main/LICENSE">
+<img src="https://img.shields.io/badge/License-AGPL--3.0-blue?style=for-the-badge" alt="License"/>
+</a>
+<a href="https://oscinoai.lovable.app">
+<img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Demo"/>
+</a>
+<a href="https://twitter.com/OscinoAI">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+</a>
+
+<br/>
+
+**[🌐 Live Demo](https://oscinoai.lovable.app)** • 
+**[📖 Docs](#)** • 
+**[💬 Discord](#)** • 
+**[🐦 Twitter](https://twitter.com/OscinoAI)**
+
+<br/>
+
+> 🚀 **Solo founder. Zero funding. 30 days.**
+> Built by [Yohan Solanki](https://linkedin.com/in/yohansolanki)
+
+</div>
+
+---
+
+## 🎬 Demo
+
+<div align="center">
 
 [
 
-![Stars](https://img.shields.io/github/stars/YohanSolanki/oscino?style=flat)
-
-](https://github.com/YohanSolanki/oscino/stargazers)
-[
-
-![Forks](https://img.shields.io/github/forks/YohanSolanki/oscino?style=flat)
-
-](https://github.com/YohanSolanki/oscino/network)
-[
-
-![License](https://img.shields.io/badge/license-AGPL--3.0-blue)
-
-](LICENSE)
-[
-
-![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)
+![Oscino Demo](https://oscinoai.lovable.app/og-image.png)
 
 ](https://oscinoai.lovable.app)
 
-🌐 [Live Demo](https://oscinoai.lovable.app) | 
-📖 [English](README-EN.md) | 
-💬 [Discord](#) | 
-🐦 [Twitter](https://twitter.com/OscinoAI)
+**[▶️ Watch Live Demo](https://oscinoai.lovable.app)**
 
 </div>
 
@@ -41,10 +62,10 @@ Predicting Anything*
 
 ## ⚡ What is Oscino?
 
-Oscino is a next-generation AI prediction engine 
-powered by multi-agent swarm intelligence.
+Oscino is a **next-generation AI prediction engine** 
+powered by multi-agent swarm intelligence technology.
 
-By extracting real-world seed information — 
+By extracting real-world seed information —
 **breaking news, policy drafts, financial signals, 
 pitch decks** — Oscino automatically constructs 
 a high-fidelity parallel digital world.
@@ -54,38 +75,129 @@ with independent personalities, long-term memory
 and behavioral logic** freely interact and socially 
 evolve.
 
-> You only need to: Upload seed material and 
+> **You only need to:** Upload seed material and 
 > describe your prediction requirement
 >
-> Oscino will return: A detailed prediction report 
+> **Oscino will return:** A detailed prediction report 
 > and a deeply interactive high-fidelity digital world
 
 ---
 
-## 🎯 Our Vision
+## 🌟 Key Features
 
-Oscino is dedicated to building a swarm intelligence 
-mirror of reality:
-
-- **Macro**: Decision-makers' pre-simulation lab — 
-  test policy and PR in zero-risk environment
-- **Micro**: Personal creative sandbox — 
-  from pitch simulations to market predictions
+| Feature | Description |
+|---------|-------------|
+| 🕸️ **Knowledge Graph** | GraphRAG extracts entities & relationships |
+| 🤖 **1,247 AI Agents** | Unique personalities, memories & behavioral logic |
+| ⚡ **OASIS Engine** | Dual-platform simulation (Twitter + Reddit) |
+| 📊 **Prediction Reports** | Confidence scores & opinion clusters |
+| 💬 **Agent Interview** | Talk directly to any simulated agent |
+| 💉 **Variable Injection** | Inject new events mid-simulation |
+| 🧠 **Claude AI** | Best-in-class reasoning LLM |
+| 📁 **Simulation History** | Track & compare predictions over time |
 
 ---
 
-## 🔄 Workflow
+## 🔄 How It Works
+Input Scenario
+↓
+Knowledge Graph (GraphRAG)
+↓
+1,247 Agents Spawn (OASIS)
+↓
+48 Rounds of Simulation
+↓
+Prediction Report (Claude AI)
+↓
+74% Confidence Score ✓
+**5 Pipeline Stages:**
 
-1. **Knowledge Graph**: Extract seed information & 
-   inject individual/group memory via GraphRAG
-2. **Environment Setup**: Extract entity relationships 
-   & generate agent personas with simulation params
-3. **Start Simulation**: Dual-platform parallel 
-   simulation & auto-analysis of prediction requirements
-4. **Report Generation**: ReportAgent synthesizes 
-   findings into structured prediction report
-5. **Deep Interaction**: Interview any agent & 
-   chat with ReportAgent for deeper insights
+1. 🕸️ **Knowledge Graph** — Extract seed info & build world model
+2. 👥 **Environment Setup** — Generate 1,247 agent personas
+3. ⚡ **Simulation** — Dual-platform social dynamics
+4. 📊 **Report Generation** — ReportAgent synthesizes findings
+5. 💬 **Deep Interaction** — Interview agents & explore predictions
+
+---
+
+## 🎯 Use Cases
+
+<table>
+<tr>
+<td>
+
+### 📈 Financial Markets
+Simulate how traders, analysts, 
+and institutions react to macro 
+events before they happen.
+
+</td>
+<td>
+
+### 🏛️ Policy Forecasting
+Predict public reactions to policy 
+announcements and stress-test 
+political communication strategies.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🚀 Startup Pitches
+Run your pitch past 8 AI investor 
+personas — get probability scores 
+and tipping point analysis.
+
+</td>
+<td>
+
+### 📱 Product Launches
+Simulate how your target market 
+will receive a new feature, pricing 
+change, or rebrand.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 📰 Media & Content
+Test how a news story or campaign 
+will spread across different 
+audience segments.
+
+</td>
+<td>
+
+### ⚖️ Regulatory Changes
+Understand how market participants 
+will adapt to new regulations 
+before they go live.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Component | Technology |
+|-----------|-----------|
+| 🧠 LLM | Claude API (Anthropic) |
+| 🕸️ Knowledge Graph | GraphRAG |
+| 💾 Agent Memory | Zep Cloud |
+| ⚡ Simulation Engine | OASIS |
+| ⚛️ Frontend | React + Vite |
+| 🐍 Backend | Python + FastAPI |
+| 🗄️ Database | Supabase |
+| 🐳 Deployment | Docker |
+| 📊 Visualization | D3.js |
+
+</div>
 
 ---
 
@@ -93,10 +205,11 @@ mirror of reality:
 
 ### Prerequisites
 
-| Tool | Version | Description |
-|------|---------|-------------|
-| Node.js | 18+ | Frontend runtime |
-| Python | ≥3.11, ≤3.12 | Backend |
+| Tool | Version |
+|------|---------|
+| Node.js | 18+ |
+| Python | ≥3.11, ≤3.12 |
+| Git | Latest |
 
 ### Installation
 
@@ -105,10 +218,11 @@ mirror of reality:
 git clone https://github.com/yohan1st/oscino.git
 cd oscino
 
-# Install dependencies
+# Install frontend dependencies
 npm install
+
+# Install backend dependencies
 pip install -r requirements.txt
 
 # Configure environment
 cp .env.example .env
-# Edit .env with your API let's 
