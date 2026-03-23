@@ -226,3 +226,72 @@ pip install -r requirements.txt
 
 # Configure environment
 cp .env.example .env
+Environment Variables
+# Required
+ANTHROPIC_API_KEY=your_claude_api_key
+SUPABASE_URL=your_supabase_url
+SUPABASE_KEY=your_supabase_key
+ZEP_API_KEY=your_zep_api_key
+
+# Optional
+OASIS_CONFIG=default
+Run
+# Start frontend
+npm run dev
+
+# Start backend
+python main.py
+Docker
+docker-compose up
+📸 Screenshots
+Knowledge Graph
+�
+Simulation Pipeline
+�
+Prediction Report
+�
+Load image
+🗺️ Roadmap
+[x] Knowledge Graph Construction
+[x] Multi-Agent Simulation
+[x] Prediction Reports
+[x] Agent Interview
+[x] Variable Injection
+[ ] API Access
+[ ] Custom Agent Personas
+[ ] Mobile App
+[ ] Enterprise Dashboard
+[ ] Real-time News Integration
+🤝 Contributing
+Contributions are welcome!
+Fork the repository
+Create your feature branch
+Commit your changes
+Push to the branch
+Open a Pull Request
+📄 License
+AGPL-3.0 License — see LICENSE
+👨‍💻 Author
+�
+
+Yohan Solanki
+Founder & CEO of Oscino
+[
+�
+Load image
+](https://linkedin.com/in/yohansolanki)
+[
+�
+Load image
+](https://twitter.com/OscinoAI)
+[
+�
+Load image
+](https://oscinoai.lovable.app)
+�
+
+�
+
+⭐ Star this repo if you find it useful!
+The future is predictable. Try Oscino.
+🚀 Try Live Demo
