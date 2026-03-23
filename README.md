@@ -102,7 +102,7 @@ mirror of reality:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YohanSolanki/oscino.git
+git clone https://github.com/yohan1st/oscino.git
 cd oscino
 
 # Install dependencies
